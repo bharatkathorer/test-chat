@@ -1,6 +1,6 @@
 import { io } from 'socket.io-client'
 
-const SOCKET_SERVER_URL = 'https://smsc.tech' // Replace this with your actual server URL
+const SOCKET_SERVER_URL = 'wss://smsc.tech' // Replace this with your actual server URL
 // const SOCKET_SERVER_URL = 'http://localhost:4444' // Replace this with your actual server URL
 class SocketClient {
   constructor() {
