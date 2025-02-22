@@ -137,7 +137,7 @@
 import {computed, ref} from "vue";
 import {ChevronDownIcon, ChevronUpIcon, MagnifyingGlassIcon, XMarkIcon} from '@heroicons/vue/24/outline';
 import Spinner from "@/Components/Table/Spinner.vue";
-import {getParameters, makeParameter, setPath} from "@/Utils/constData.js";
+import {getParameters, makeParameter, setPath} from "../../utils/constData.js";
 import {RouterLink, useRoute, useRouter} from "vue-router";
 import PrimaryButton from "@/components/forms/PrimaryButton.vue";
 import '../../utils/adminAxios'
