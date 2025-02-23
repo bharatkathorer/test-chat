@@ -4,7 +4,7 @@ import {XMarkIcon} from "@heroicons/vue/24/outline";
 
 // import Spinner from "@/Icons/Spinner.vue";
 import PrimaryButton from "@/components/forms/PrimaryButton.vue";
-// import SecondaryButton from "@/Components/Default/SecondaryButton.vue";
+// import SecondaryButton from "@/components/Default/SecondaryButton.vue";
 
 defineProps({
   modelValue: Boolean,

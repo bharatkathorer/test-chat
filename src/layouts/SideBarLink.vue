@@ -36,7 +36,7 @@
 </template>
 <script setup>
 import {HomeIcon, CogIcon} from '@heroicons/vue/24/outline'
-import According from "@/Components/According.vue";
+import According from "@/components/According.vue";
 import {RouterLink, useRoute} from "vue-router";
 import {ref} from "vue";
 

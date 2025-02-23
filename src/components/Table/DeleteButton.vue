@@ -9,7 +9,7 @@
 </template>
 <script setup>
 import {TrashIcon} from '@heroicons/vue/20/solid'
-import DialogBox from "@/Components/DialogBox.vue";
+import DialogBox from "@/components/DialogBox.vue";
 import '../../utils/adminAxios';
 import axios from "axios";
 import {ref} from "vue";
