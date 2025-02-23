@@ -13,7 +13,7 @@
 
 <script setup>
 import {onMounted, onUnmounted, ref} from 'vue';
-import Spinner from "@/Components/Table/Spinner.vue";
+import Spinner from "@/components/Table/Spinner.vue";
 import '../utils/axios'
 import axios from "axios";
 

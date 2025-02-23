@@ -138,7 +138,7 @@
 <!--<script setup>-->
 <!--import {computed, ref} from "vue";-->
 <!--import {ChevronDownIcon, ChevronUpIcon, MagnifyingGlassIcon, XMarkIcon} from '@heroicons/vue/24/outline';-->
-<!--import Spinner from "@/Components/Table/Spinner.vue";-->
+<!--import Spinner from "@/components/Table/Spinner.vue";-->
 <!--import {getParameters, makeParameter, setPath} from "../../utils/constData.js";-->
 <!--import {RouterLink, useRoute, useRouter} from "vue-router";-->
 <!--import PrimaryButton from "@/components/forms/PrimaryButton.vue";-->
